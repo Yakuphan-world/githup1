@@ -1,0 +1,1 @@
+print("alistirma icin yeni repo olusturduk")
